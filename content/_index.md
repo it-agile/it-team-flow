@@ -1,7 +1,7 @@
 ---
 date: '2025-11-15T15:09:33+01:00'
 layout: "home"
-draft: true
+draft: false
 title: 'Viele Teams, kein Flow'
 params:
   headline1a: VIELE
@@ -14,18 +14,5 @@ params:
   versprechen2b: Time-to-Market
   versprechen3a: Synchronisierte,
   versprechen3b: lieferfähige Teams
+  webinar: https://us02web.zoom.us/webinar/register/WN_2DcCx0xtQ568UxNLkbGx1A#/registration
 ---
-
-
-
-# hero header
-hero test
-{.hero-headline-line-1}
-
-hero:
-  ##xyz-header
-  xyz xyz
-
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
