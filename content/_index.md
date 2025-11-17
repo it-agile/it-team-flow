@@ -1,7 +1,7 @@
 ---
 date: '2025-11-15T15:09:33+01:00'
 layout: "home"
-draft: true
+draft: false
 title: 'Viele Teams, kein Flow'
 params:
   headline1a: VIELE
