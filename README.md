@@ -1,3 +1,7 @@
+# VERALTET
+# Das aktuelle Projekt findet sich im Repo product-flow
+
+
 Die Webseite benutzt HUGO als Static Site Generator. HUGO generiert die Webseite ins public-Verzeichnis.
 
 In Github ist eine Workflow definiert, der bei Änderungen automatisch die Seite mit HUGO neu baut.
